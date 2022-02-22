@@ -10,9 +10,8 @@
 
 <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
 
-My main skills and interest are Android and Kotlin development. I often create new repositories to store some personal projects, 
-configurations or sample content. The projects are about my work, hobbies
-and I also use them as a source for study.
+My main skills and interests are developed for Android and Kotlin.
+Create new, personal repositories for some sample projects and use them as a study source.
 
 <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
 
