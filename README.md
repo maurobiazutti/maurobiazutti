@@ -1,11 +1,7 @@
 
 <h3>Hi, I'm Mauro! Welcome to my GitHub</h3>
 
-
-<img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
-
-My main skills and interests are developed for Android and Kotlin.
-Create new, personal repositories for some sample projects and use them as a study source.
+Feel free to explore 😉 
 
 <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
 
@@ -21,6 +17,7 @@ Create new, personal repositories for some sample projects and use them as a stu
 <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
 
 <div style="display: inline_block">
+  <h3> My Skills </h3>
   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" />
   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
@@ -31,11 +28,6 @@ Create new, personal repositories for some sample projects and use them as a stu
   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-
-</div><br>
-
-Feel free to explore 😉 <br>
-If you want to know more about me, follow me on my social medias:
-
-
-<a href="https://www.linkedin.com/in/mauro-biazutti/"> <img src="https://img.icons8.com/fluency/48/null/linkedin.png" /></a>
+</div> 
+<h4> If you want to know more about me, follow me on my social medias:</h4>
+<a href="https://www.linkedin.com/in/mauro-biazutti/"> <img src="https://img.icons8.com/fluency/48/null/linkedin.png"/></a>
