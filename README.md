@@ -8,9 +8,9 @@ Feel free to explore 😉
 ## My repositories content
 
 <div align="center">
-  <a href="https://github.com/MauroBiazutti">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauroBiazutti&layout=compact&theme=buefy" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MauroBiazutti&show_icons=true&theme=buefy" />
+  <a href="https://github.com/maurobiazutti">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maurobiazutti&layout=compact&theme=buefy" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=baurobiazutti&show_icons=true&theme=buefy" />
   </a>
 </div>
 
