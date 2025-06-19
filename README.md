@@ -10,7 +10,7 @@ Feel free to explore 😉
 <div align="center">
   <a href="https://github.com/maurobiazutti">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maurobiazutti&layout=compact&theme=buefy" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=baurobiazutti&show_icons=true&theme=buefy" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maurobiazutti&show_icons=true&theme=buefy" />
   </a>
 </div>
 
