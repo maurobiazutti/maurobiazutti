@@ -5,16 +5,16 @@ Feel free to explore 😉
 
 <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
 
-## My repositories content
 
-<div align="center">
+
+<!-- <div align="center">
   <a href="https://github.com/maurobiazutti">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maurobiazutti&layout=compact&theme=buefy" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maurobiazutti&show_icons=true&theme=buefy" />
   </a>
-</div>
+</div> -->
 
-<img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
+<!-- <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" /> -->
 
 <div style="display: inline_block">
   <h3> My Skills </h3>
